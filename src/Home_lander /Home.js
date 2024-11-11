@@ -135,14 +135,14 @@ export default function Home() {
       <hr />
       <div className="handles">
         <a
-          href="https://github.com/SahilS2004/codepen"
+          href="https://github.com/HimanshuRawat77/Pixel"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faGithub} className="awe" />
         </a>
         <a
-          href="https://www.instagram.com/sahil_s2004/"
+          href="https://www.instagram.com/hima_nshu1205_official/"
           target="_blank"
           rel="noopener noreferrer"
         >
